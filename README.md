@@ -17,3 +17,4 @@ Hands-on cybersecurity labs and study notes from my journey into SOC/GRC roles.
 ## 📁 Repository Structure
 ```
 cyber-labs-matheus/ ├── soc/ # SOC operations labs ├── grc/ # Governance, Risk & Compliance ├── forensics/ # Digital forensics exercises ├── security-plus/ # Security+ study notes ├── network-analysis/ # Wireshark, packet analysis └── incident-response/ # IR playbooks and scenarios
+```
