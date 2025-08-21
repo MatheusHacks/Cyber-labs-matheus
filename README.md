@@ -24,3 +24,23 @@ cyber-labs-matheus/
 ├── network-analysis/       # Wireshark, packet analysis
 └── incident-response/      # IR playbooks and scenarios
 ```
+
+## 📚 Latest Updates
+- ✅ **Added**: Security+ Study Notes - CIA Triad & Access Controls (Pre-bootcamp preparation)
+- 🔄 **Coming soon**: SOC Lab exercises during Ironhack training
+- 🔄 **Coming soon**: GRC framework notes and risk assessment exercises
+- 🔄 **Coming soon**: Hands-on Wireshark packet analysis labs
+
+## 🎓 Background
+Transitioning from production operations (5+ years) to cybersecurity, bringing strong skills in system monitoring, anomaly detection, and process compliance. Previously worked as Production Operator at La Poste, where I developed expertise in:
+- System monitoring and anomaly detection
+- Process compliance and quality control
+- Working under pressure with strict deadlines
+- Team coordination and incident escalation
+
+## 📫 Connect
+- LinkedIn: [https://www.linkedin.com/in/matheus-de-carvalho-cyber]
+- Email: [mrcarvalhofr@gmail.com]
+
+---
+*Learning in public - feedback and suggestions welcome!*
