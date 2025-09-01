@@ -24,7 +24,7 @@ Other: Digital forensics basics, Security+ knowledge areas
 - 
 ## 📁 Repository Structure
 ```
-cyber-labs-matheus/
+
 cyber-labs-matheus/
 ├── soc/                  # SOC operations labs & SIEM use cases
 ├── forensics/            # Digital forensics exercises
